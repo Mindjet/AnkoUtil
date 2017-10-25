@@ -1,5 +1,7 @@
 # AnkoUtil
 
+![version](https://jitpack.io/v/Mindjet/AnkoUtil.svg)
+
 >*Aka Android-Kotlin-Util*
 
 This is a library including **utils** and **function extension** for Android develop.  

@@ -1,4 +1,4 @@
-package io.github.mindjet.library
+package io.github.mindjet.library.extension
 
 import android.content.Context
 import android.util.Log
@@ -8,7 +8,7 @@ import android.widget.Toast
  * Created by Mindjet on 2017/9/6.
  */
 val testString = "This is a string."
-var toast: Toast? = null
+private var toast: Toast? = null
 
 inline fun <reified T> T.log(log: Any) {
     Log.e(T::class.simpleName, log.toString())

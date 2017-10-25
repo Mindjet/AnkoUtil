@@ -2,7 +2,7 @@ package io.github.mindjet.sample
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
-import io.github.mindjet.library.*
+import io.github.mindjet.library.extension.*
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,4 +1,4 @@
-package io.github.mindjet.library
+package io.github.mindjet.library.extension
 
 import android.os.Build
 
